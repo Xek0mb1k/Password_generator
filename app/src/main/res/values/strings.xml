@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Password Generator</string>
+    <string name="generated_password" translatable="false"> </string>
+
+    <string name="password_length">LENGTH:</string>
+
+    <string name="customize_password">Customize password</string>
+
+    <string name="number_4" translatable="false">4</string>
+    <string name="number_64" translatable="false">64</string>
+    <string name="uppercase_letters_a_z">Uppercase letters (A-Z)</string>
+    <string name="lowercase_letters_a_z">Lowercase letters (a-z)</string>
+    <string name="numbers_0_9">Numbers (0–9)</string>
+    <string name="symbols">Symbols</string>
+    <string name="unique_characters">Unique characters</string>
+    <string name="generate_password">generate password</string>
+    <string name="copy_password">Copy password</string>
+</resources>

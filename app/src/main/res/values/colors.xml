@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary_color">#FF040F2D</color>
+    <color name="primary_dark">#FF2c385d</color>
+    <color name="dark_theme_card_view_back">#FF091642</color>
+    <color name="dark_theme_background">#FF040F2D</color>
+
+    <color name="light_theme_text_color">#FF02050F</color>
+    <color name="light_theme_card_view_back">#FFA9C1FF</color>
+    <color name="light_theme_background">#FFF1F2FF</color>
+
+    <color name="blue">#FF0E7BF6</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+</resources>

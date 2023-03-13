@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Генератор паролей</string>
+    <string name="generate_password">Сгенерировать пароль</string>
+    <string name="uppercase_letters_a_z">Заглавные буквы (A-Z)</string>
+    <string name="password_length">ДЛИННА:</string>
+    <string name="customize_password">Настроить пароль</string>
+    <string name="copy_password">Копировать пароль</string>
+    <string name="lowercase_letters_a_z">Строчные буквы (a-z)</string>
+    <string name="numbers_0_9">Числа (0–9)</string>
+    <string name="symbols">Символы</string>
+    <string name="unique_characters">Уникальные символы</string>
+</resources>
